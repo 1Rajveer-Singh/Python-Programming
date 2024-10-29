@@ -1,9 +1,10 @@
 Here's a refined and structured `README.md` that’s both engaging and concise:
 
-```markdown
+markdown
 # 🎉 Rock-Paper-Scissors Game 🎉
 
-A fun, interactive Rock-Paper-Scissors game with **Speech Feedback** and a **Modern GUI** built with Python! Challenge the computer, track scores, and enjoy real-time audio commentary as you play.
+A fun, interactive Rock-Paper-Scissors game with **Speech Feedback** and a **Modern GUI** built
+with Python! Challenge the computer, track scores, and enjoy real-time audio commentary as you play.
 
 ---
 
@@ -18,17 +19,18 @@ A fun, interactive Rock-Paper-Scissors game with **Speech Feedback** and a **Mod
 ## 🛠 Installation
 
 1. Clone the Repository
-   ```bash
+   bash
    git clone https://github.com/your-username/rock-paper-scissors-game.git
    cd rock-paper-scissors-game
-   ```
+   
 
 2. Install Dependencies
    ```bash
    pip install pyttsx3 pillow
    ```
 
-3. Add Icons: Ensure `rock.png`, `paper.png`, and `scissors.png` images are in the project directory.
+3. Add Icons: Ensure `rock.png`, `paper.png`, and `scissors.png`
+   images are in the project directory.
 
 ## 🎮 How to Play
 
@@ -64,6 +66,8 @@ We welcome all contributions! Feel free to fork, submit PRs, and report issues.
 ---
 
 💡 **Enjoy the Game** - Classic fun, modern experience!
-```
 
-This concise structure makes the README more visually appealing and engaging, helping users get started quickly while highlighting key features. Let me know if you'd like more adjustments!
+
+This concise structure makes the README more visually appealing and engaging,
+ helping users get started quickly while highlighting key features.
+ Let me know if you'd like more adjustments!
