@@ -17,25 +17,25 @@ A fun, interactive Rock-Paper-Scissors game with **Speech Feedback** and a **Mod
 
 ## 🛠 Installation
 
-1. **Clone the Repository**
+1. Clone the Repository
    ```bash
    git clone https://github.com/your-username/rock-paper-scissors-game.git
    cd rock-paper-scissors-game
    ```
 
-2. **Install Dependencies**
+2. Install Dependencies
    ```bash
    pip install pyttsx3 pillow
    ```
 
-3. **Add Icons**: Ensure `rock.png`, `paper.png`, and `scissors.png` images are in the project directory.
+3. Add Icons: Ensure `rock.png`, `paper.png`, and `scissors.png` images are in the project directory.
 
 ## 🎮 How to Play
 
-1. **Select your move**: Choose Rock, Paper, or Scissors.
-2. **Play**: Hit "Play" to start the countdown and reveal the winner.
-3. **Track Scores**: Keep an eye on your score, the computer’s score, and draws.
-4. **Reset or Exit**: Use the "Reset" button to restart or "Exit Game" to finish and hear the final results.
+1. Select your move: Choose Rock, Paper, or Scissors.
+2. Play: Hit "Play" to start the countdown and reveal the winner.
+3. Track Scores: Keep an eye on your score, the computer’s score, and draws.
+4. Reset or Exit: Use the "Reset" button to restart or "Exit Game" to finish and hear the final results.
 
 ## 📋 Requirements
 
@@ -51,7 +51,10 @@ A fun, interactive Rock-Paper-Scissors game with **Speech Feedback** and a **Mod
 
 ## 📸 Screenshots
 
-![Gameplay Screenshot](link_to_screenshot)  
+![Screenshot 2024-10-29 203511](https://github.com/user-attachments/assets/a64e5d46-c5b4-4f9b-aa71-a0edf15b485d)
+![Screenshot 2024-10-29 203318](https://github.com/user-attachments/assets/b52152ad-4954-4e57-bae6-9e0995b82199)
+
+
 _Add screenshots to showcase the game’s interface!_
 
 ## 🤝 Contributing
