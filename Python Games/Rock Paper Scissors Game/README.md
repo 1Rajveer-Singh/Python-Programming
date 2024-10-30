@@ -1,6 +1,4 @@
-Here's a refined and structured `README.md` that’s both engaging and concise:
 
-markdown
 # 🎉 Rock-Paper-Scissors Game 🎉
 
 A fun, interactive Rock-Paper-Scissors game with **Speech Feedback** and a **Modern GUI** built
@@ -57,7 +55,7 @@ with Python! Challenge the computer, track scores, and enjoy real-time audio com
 ![Screenshot 2024-10-29 203318](https://github.com/user-attachments/assets/b52152ad-4954-4e57-bae6-9e0995b82199)
 
 
-_Add screenshots to showcase the game’s interface!_
+_Screenshots to showcase the game’s interface!_
 
 ## 🤝 Contributing
 
